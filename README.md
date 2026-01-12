@@ -22,5 +22,5 @@ A curated list of awesome open source and commercial MLOps platforms 🚀
  * [Pachyderm](https://github.com/pachyderm/pachyderm): Open source distributed processing framework build on Kubernetes focused mainly on dynamic building of production machine learning pipelines.
  * [Polyaxon](https://github.com/polyaxon/polyaxon): A cloud native machine learning management & orchestration platform.
  * [Sagemaker](https://aws.amazon.com/sagemaker/): Fully managed service that provides the ability to build, train, and deploy ML models quickly.
- * [Valohai](https://valohai.com/): Takes you from POC to production while managing the whole model lifecycle.
+ * [Valohai](https://valohai.com/): MLOps platform for reproducible ML and LLM workflows from experimentation to production, with execution lineage, auditability, and hybrid deployment support.
  * [ZenML](https://github.com/maiot-io/zenml): An extensible, open-source MLOps framework to create reproducible ML pipelines with a focus on automated metadata tracking, caching, and many integrations to other tools.
